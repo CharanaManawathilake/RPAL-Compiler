@@ -15,3 +15,5 @@ To print the Abstract syntax tree of the program, use the following command:
 ```bash
 ./mypal file_name -ast
 ```
+
+Try out some test files in ./test/
